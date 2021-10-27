@@ -53,3 +53,11 @@ Powerlifting
 
 
 ```
+## languages
+
+```
+english : Fluent
+french : basic
+arabic : Mother tongue
+
+```
