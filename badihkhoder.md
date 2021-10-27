@@ -1,4 +1,4 @@
-![alt text for screen readers](\Users\badih\Desktop\New folder\image for me "this is me")
+![alt text for screen readers](i1.png "this is me")
 
 # Badih Khoder
 
